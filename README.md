@@ -7,7 +7,7 @@ Beginner to Advanced • Windows PowerShell • VS Code • GitHub • Azure Dev
 This is your practical Git reference guide, organized by task. For every important command, you'll learn what it does, why you need it, how to use it, and when to use it.
 
 All examples use PowerShell and your practice repository:
-
+s
 ```
 C:\Users\LENOVO\git-tutorial\lesson-01
 ```
